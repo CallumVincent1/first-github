@@ -14,6 +14,8 @@ def ask_question(question):
 questions = [
     "What's your favorite hobby?",    # Example question
     "What's your favorite movie?",
+    "What's your name?",
+    "what's your favourite sport?",
  ]
 # Function to randomly select and ask two questions
 def icebreaker():
@@ -25,3 +27,7 @@ def icebreaker():
 # Call the icebreaker function to start the program
  
 icebreaker()
+
+#testing
+
+
